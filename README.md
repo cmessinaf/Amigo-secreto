@@ -12,3 +12,4 @@ Archivos que componen el proyecto:
 index.html  *este archivo es el ejecutable*
 app.js      *este archivo tiene la logica de javascripts*
 styles.css  *Estilos para la presentacion*
+assets      *carpeta que contiene imagenes usadas del proyecto*
